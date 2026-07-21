@@ -1,0 +1,11 @@
+datasets
+transformers
+accelerate
+evaluate
+scikit-learn
+nltk
+sentencepiece
+matplotlib
+pandas
+numpy
+torch
