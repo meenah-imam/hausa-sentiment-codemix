@@ -1,4 +1,4 @@
-# hausa-sentiment-codemix
+
 # Hausa Sentiment Analysis: Code-Mix vs Monolingual
 
 This project investigates the performance of sentiment analysis models on **Hausa language data**, comparing:
